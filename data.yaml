@@ -5718,7 +5718,7 @@ groups:
     locations:
       - continent: "South America"
         country_id: "AR"
-        city: Buenos Aires
+        city: "Buenos Aires"
     language_id: "en"
     commercial: false
     tags:
